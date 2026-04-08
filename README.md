@@ -1,2 +1,2 @@
-# ofree01.github.io
+# Ofree01.github.io
 Doom Bloom task for Outdoor Ed
